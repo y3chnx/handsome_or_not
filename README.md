@@ -18,10 +18,17 @@
 ## Requirements
 
 python3.11
+<br>
 torch
+<br>
 torchvision
 
 ## Installation
+**Download Project**
+<br>
+```git clone https://github.com/y3chnx/handsome_or_not.git```
+```pip install requirements.txt```
+
 **Use this command to Deep learn model:**
 ```python learn.py```
 
