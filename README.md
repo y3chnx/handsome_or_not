@@ -1,4 +1,4 @@
-# handsome_or_not
+# Handsome or Not
 
 > AI deep learned model that determine whether your picture is handsome or not. 
 
@@ -23,7 +23,7 @@ torchvision
 
 ## Installation
 **Use this command to Deep learn model:**
-python learn.py
+```python learn.py```
 
 **Use this command to run the model:**
-python main.py <image location>
+```python main.py <image location>```
