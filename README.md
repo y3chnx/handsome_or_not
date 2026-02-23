@@ -11,7 +11,7 @@
 
 ## ℹ️ Project Information
 
-- **👤 Author:** y3chnx
+- **👤 Author:** YN (@y3chnx)
 - **📄 License:** MIT
 - **📂 Repository:** [https://github.com/y3chnx/handsome_or_not?tab=readme-ov-file](https://github.com/y3chnx/handsome_or_not?tab=readme-ov-file)
 
