@@ -2,7 +2,7 @@
 
 > AI deep learned model that determine whether your picture is handsome or not. 
 
-![License](https://img.shields.io/badge/license-MIT-green) ![Language](https://img.shields.io/badge/language-Python-yellow) ![Framework](https://img.shields.io/badge/framework-Pytorch-orange) ![GitHub](https://img.shields.io/badge/GitHub-y3chnx/handsome_or_not?tab=readme-ov-file-black?logo=github) ![Build Status](https://img.shields.io/github/actions/workflow/status/y3chnx/handsome_or_not?tab=readme-ov-file/ci.yml?branch=main)
+![License](https://img.shields.io/badge/license-MIT-green) ![Language](https://img.shields.io/badge/language-Python-yellow) ![Framework](https://img.shields.io/badge/framework-Pytorch-orange) ![GitHub](https://img.shields.io/badge/GitHub-y3chnx/handsome_or_not?tab=readme-ov-file-black?logo=github)
 
 ## 📋 Table of Contents
 - Project Information
